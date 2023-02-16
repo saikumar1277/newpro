@@ -10,7 +10,7 @@ import math
 app = Flask(__name__)
 
 
-@app.route("/")
+@app.route("/saikumar1277.github.io/newpro")
 def home():
     return render_template("index.html")
 
